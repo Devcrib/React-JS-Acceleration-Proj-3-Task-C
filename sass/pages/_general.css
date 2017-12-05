@@ -1,4 +1,4 @@
-/* line 1, task C/sass/pages/_general.scss */
+/* line 1, ../../Users/omole grace/Documents/web design/task C/sass/pages/_general.scss */
 body, html {
   padding: 0;
   margin: 0;
@@ -10,11 +10,11 @@ body, html {
   line-height: 1.42857143;
   color: #333;
   box-sizing: border-box; }
-  /* line 13, task C/sass/pages/_general.scss */
+  /* line 13, ../../Users/omole grace/Documents/web design/task C/sass/pages/_general.scss */
   body *, html * {
     box-sizing: border-box; }
 
-/* line 19, task C/sass/pages/_general.scss */
+/* line 19, ../../Users/omole grace/Documents/web design/task C/sass/pages/_general.scss */
 .clearfix {
   clear: both;
   overflow: auto; }

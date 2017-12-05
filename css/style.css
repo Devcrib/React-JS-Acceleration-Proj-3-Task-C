@@ -441,7 +441,6 @@ body, html {
       float: left;
       padding-left: 40px;
       display: none;
-      padding-top: 20px;
       background-color: #333; }
       #banner .dropdown .coaches_drop li, #banner .dropdown .client_drop li {
         color: #f0f0f0;
@@ -478,7 +477,8 @@ body, html {
       color: #ec008c;
       font-size: 150px;
       font-family: 'Poppins', sans-serif;
-      margin: 0; }
+      margin: 0;
+      line-height: 1; }
       #banner .welcome h2 span {
         color: #fff;
         font-size: 120px;
